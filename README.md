@@ -6,3 +6,4 @@ This repository contains links to test documentation that I created during the t
   <li><a href="https://docs.google.com/spreadsheets/d/1UgVUqJTT4ST05OmQJ2fnYLuhfAkeMrkFtZGPvhK1-3c/edit?gid=0#gid=0">test cases</a> for list creation</li>
   <li><a href="https://docs.google.com/spreadsheets/d/1HGjqNio4vbEQ3tutFGmlfk46kyWH7NOIrqn-hIhGi4I/edit?gid=0#gid=0">test cases</a> for list editing</li>
 </ul>
+<i>The list of test documentation will be expanded soon...</i>
